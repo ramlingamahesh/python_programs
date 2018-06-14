@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57dda1e7-cfbc-425c-be81-aaaeb5aff2e6" name="Default" comment="" />
+    <list default="true" id="57dda1e7-cfbc-425c-be81-aaaeb5aff2e6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/Areeof_equilateral Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/Calculate_Area Right Angled Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/Calculate_VolumeandSurfacearea of _Sphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/Caluate_Areaof Trapeziod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/Calulate_Surface_area0f_cubiod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/CountNumber_ofDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programspython/PerfectNO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexecersiom/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexecersiom/isogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexecersiom/isogram_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,36 +38,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="File_Merge Two Files.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/File/File_Merge Two Files.py">
+      <file leaf-file-name="isogram_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testexecersiom/isogram_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+            <state relative-caret-position="-363">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_List all Files in Directory.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/File_List all Files in Directory.py">
+      <file leaf-file-name="isogram.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testexecersiom/isogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="102">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File_Delete File.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/File_Delete File.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hi" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/hi">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -58,29 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programspython/Swap_ Two Numbers.py" />
-        <option value="$PROJECT_DIR$/conditionsandloops/Largest_of Two Numbers.py" />
-        <option value="$PROJECT_DIR$/conditionsandloops/Find_HCF and LCM.py" />
-        <option value="$PROJECT_DIR$/programspython/Calculate_ Area of Square.py" />
-        <option value="$PROJECT_DIR$/programspython/Calculate_Area of Rectangle.py" />
-        <option value="$PROJECT_DIR$/programspython/Calculate_Area of Circle.py" />
-        <option value="$PROJECT_DIR$/programspython/Calculate_Perimeter of Square.py" />
-        <option value="$PROJECT_DIR$/programspython/Calculate_Circumference of Circle.py" />
-        <option value="$PROJECT_DIR$/programspython/Print_ASCII Values.py" />
-        <option value="$PROJECT_DIR$/conditionsandloops/Display_Powersof2.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Fahrenheit to Celsius.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Decimal to Binary.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Decimal to Hexadecimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Binary to Decimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Binary to Octal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Binary to Hexadecimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Octal to Decimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Octal to Binary.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Octal to Hexadecimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Hexadecimal to Decimal.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Hexadecimal to Binary.py" />
-        <option value="$PROJECT_DIR$/programspython/Convert_Hexadecimal to Octal.py" />
-        <option value="$PROJECT_DIR$/conditionsandloops/Print_Floyd Triangle.py" />
         <option value="$PROJECT_DIR$/conditionsandloops/Sumof_NaturalNumbers.py" />
         <option value="$PROJECT_DIR$/conditionsandloops/OneDimensional_Array Program.py" />
         <option value="$PROJECT_DIR$/conditionsandloops/Find_Transpose of Matrix.py" />
@@ -109,6 +99,29 @@
         <option value="$PROJECT_DIR$/File/File_Merge Two Files.py" />
         <option value="$PROJECT_DIR$/File/File_List all Files in Directory.py" />
         <option value="$PROJECT_DIR$/File/File_Delete File.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_1.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_2.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_3.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_4.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_5.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_6.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_7.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_8.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_9.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_10.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_11.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_12.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_13.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_14.py" />
+        <option value="$PROJECT_DIR$/Pyramid Patterns/ProgramNo_15.py" />
+        <option value="$PROJECT_DIR$/programspython/PerfectNO.py" />
+        <option value="$PROJECT_DIR$/programspython/Calculate_Area Right Angled Triangle.py" />
+        <option value="$PROJECT_DIR$/programspython/CountNumber_ofDigits.py" />
+        <option value="$PROJECT_DIR$/programspython/Calulate_Surface_area0f_cubiod.py" />
+        <option value="$PROJECT_DIR$/programspython/Caluate_Areaof Trapeziod.py" />
+        <option value="$PROJECT_DIR$/programspython/Areeof_equilateral Triangle.py" />
+        <option value="$PROJECT_DIR$/programspython/Calculate_VolumeandSurfacearea of _Sphere.py" />
+        <option value="$PROJECT_DIR$/testexecersiom/isogram.py" />
       </list>
     </option>
   </component>
@@ -118,12 +131,15 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,25 +147,21 @@
               <item name="Demopython" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demopython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Demopython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demopython" type="462c0819:PsiDirectoryNode" />
-              <item name="conditionsandloops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demopython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demopython" type="462c0819:PsiDirectoryNode" />
-              <item name="FunctionPrograms3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/programspython/Calculate_Perimeter of Square.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/programspython/Calculate_Perimeter of Square.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vramlma\PycharmProjects\Demopython\testexecersiom" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,8 +175,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.File_Delete File">
-    <configuration name="File_Delete File" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.isogram">
+    <configuration name="Calculate_VolumeandSurfacearea of _Sphere" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,17 +184,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programspython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/File_Delete File.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programspython/Calculate_VolumeandSurfacearea of _Sphere.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="File_List all Files in Directory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Caluate_Areaof Trapeziod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,17 +202,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programspython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/File_List all Files in Directory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programspython/Caluate_Areaof Trapeziod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="File_Merge Two Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,17 +220,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testexecersiom" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File/File_Merge Two Files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testexecersiom/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Get_ IPAddress" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="isogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,48 +238,43 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conditionsandloops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testexecersiom" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionsandloops/Get_ IPAddress.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testexecersiom/isogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Print_Date and Time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in isogram_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Demopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conditionsandloops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testexecersiom" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionsandloops/Print_Date and Time.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testexecersiom/isogram_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.Print_Date and Time" />
-      <item itemvalue="Python.Get_ IPAddress" />
-      <item itemvalue="Python.File_Merge Two Files" />
-      <item itemvalue="Python.File_List all Files in Directory" />
-      <item itemvalue="Python.File_Delete File" />
+      <item itemvalue="Python.Caluate_Areaof Trapeziod" />
+      <item itemvalue="Python.Calculate_VolumeandSurfacearea of _Sphere" />
+      <item itemvalue="Python.isogram" />
+      <item itemvalue="Python tests.Unittests in isogram_test.py" />
+      <item itemvalue="Python.example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.File_Delete File" />
-        <item itemvalue="Python.File_List all Files in Directory" />
-        <item itemvalue="Python.File_Merge Two Files" />
-        <item itemvalue="Python.Get_ IPAddress" />
-        <item itemvalue="Python.Print_Date and Time" />
+        <item itemvalue="Python.isogram" />
+        <item itemvalue="Python tests.Unittests in isogram_test.py" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.Calculate_VolumeandSurfacearea of _Sphere" />
+        <item itemvalue="Python.Caluate_Areaof Trapeziod" />
       </list>
     </recent_temporary>
   </component>
@@ -284,10 +291,18 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_isogram_test_py - 2018.06.14 at 15h 19m 28s.xml">
+      <configuration name="Unittests in isogram_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_isogram_test_py - 2018.06.14 at 15h 21m 01s.xml">
+      <configuration name="Unittests in isogram_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23133236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22474378" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -310,188 +325,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Area of Circle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Area of Rectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Perimeter of Square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Circumference of Circle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Print_ASCII Values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Display_Powersof2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Fahrenheit to Celsius.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Decimal to Hexadecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Decimal to Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Binary to Decimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Binary to Octal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" lean-forward="true" selection-start-column="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Binary to Hexadecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Octal to Decimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Octal to Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Octal to Hexadecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Hexadecimal to Decimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Hexadecimal to Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programspython/Convert_Hexadecimal to Octal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Print_Floyd Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Sumof_NaturalNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/OneDimensional_Array Program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Find_Transpose of Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/MatrixMultiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Print_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Find_Length of String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionsandloops/Compare_Two Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditionsandloops/Copy_String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -581,9 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/File/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/File/__init__.py" />
     <entry file="file://$PROJECT_DIR$/File/File_Read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -633,6 +464,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/File/hi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/File_Merge Two Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/File/File_List all Files in Directory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -647,13 +488,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/File/hi">
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyramid Patterns/ProgramNo_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Perimeter of Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Convert_Binary to Hexadecimal.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/File/File_Merge Two Files.py">
+    <entry file="file://$PROJECT_DIR$/programspython/PerfectNO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        <state relative-caret-position="170">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Calculate_Area Right Angled Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/CountNumber_ofDigits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Calulate_Surface_area0f_cubiod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Caluate_Areaof Trapeziod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Areeof_equilateral Triangle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programspython/Calculate_VolumeandSurfacearea of _Sphere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testexecersiom/isogram_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testexecersiom/isogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
         </state>
       </provider>
     </entry>
